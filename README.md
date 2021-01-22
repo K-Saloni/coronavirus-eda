@@ -1,1 +1,1 @@
-# coronavirus-eda
+# CoronaVirus-EDA-Web
